@@ -42,3 +42,30 @@
 2024-10-11 19:13:40,652 - INFO - Processed message ID 2399 from EAHCI.
 2024-10-11 19:14:00,622 - INFO - Saved last processed ID 2399 for EAHCI.
 2024-10-11 19:14:00,622 - INFO - Scraped data from EAHCI.
+2024-10-11 19:25:00,328 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 19:25:07,430 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 19:25:09,319 - ERROR - Error in main function: Could not find a matching Constructor ID for the TLObject that was supposed to be read with ID 8f97c628. See the FAQ for more details. Remaining bytes: b'(\xc6\x97\x8fw\x1c\x00\x00\x00\x00\x00\x00\x97;\xb9`\x01\x00\x00\x00\x940<E^\xb2\xeaX\x05Belay\x00\x00\x07Getchew\x0c251940250405\x00\x00\x00\x06\xf7\xd1\x82\x02\x00\x00\x00\x19\xbf1\x1b9\xbd\xa1Q\x0f\x01\x08\x08I\x1dK \x07\x9e\xfcQE\x14\xec\x0c\x04\x00\x00\x00?p\x8c\x00\xc4j\tgQ\xfd ]B\x93\x94\x13h{\xcc\xfa\r\x93\x93Am\xc4.\\'
+2024-10-11 19:31:24,891 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 19:31:25,037 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 19:31:25,879 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:31:25,879 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2024-10-11 19:31:25,879 - INFO - Closing current connection to begin reconnect...
+2024-10-11 19:31:25,880 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 19:31:25,880 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:31:26,036 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 19:31:26,385 - WARNING - Error executing high-level request after reconnect: <class 'telethon.errors.common.TypeNotFoundError'>: Could not find a matching Constructor ID for the TLObject that was supposed to be read with ID 8f97c628. See the FAQ for more details. Remaining bytes: b'(\xc6\x97\x8fw\x1c\x00\x00\x00\x00\x00\x00\x97;\xb9`\x01\x00\x00\x00\x940<E^\xb2\xeaX\x05Belay\x00\x00\x07Getchew\x0c251940250405\x00\x00\x00\x06\xf7\xd1\x82\x02\x00\x00\x00\x19\xbf1\x1b9\xbd\xa1Q\x0f\x01\x08\x08I\x1dK \x07\x9e\xfcQE\x14\xec\x0c\x04\x00\x00\x00?p\x8c\x00\xc4j\tg9\x07z\x19\x86\xd54\xc9\xd64\x9d\xb4Z\x15\x1f\x0f\xcaf0F'
+2024-10-11 19:31:27,803 - INFO - Client started successfully.
+2024-10-11 19:31:36,231 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-11 19:31:36,231 - INFO - No new messages found for DoctorsET.
+2024-10-11 19:31:36,231 - INFO - Scraped data from DoctorsET.
+2024-10-11 19:31:36,231 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-11 19:31:36,231 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-11 19:32:03,171 - INFO - Saved last processed ID 12426 for lobelia4cosmetics.
+2024-10-11 19:32:03,171 - INFO - No new messages found for lobelia4cosmetics.
+2024-10-11 19:32:03,171 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-11 19:32:21,374 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-11 19:32:21,375 - INFO - No new messages found for yetenaweg.
+2024-10-11 19:32:21,375 - INFO - Scraped data from yetenaweg.
+2024-10-11 19:32:42,067 - INFO - Saved last processed ID 2399 for EAHCI.
+2024-10-11 19:32:42,067 - INFO - No new messages found for EAHCI.
+2024-10-11 19:32:42,067 - INFO - Scraped data from EAHCI.
