@@ -1,0 +1,44 @@
+2024-10-11 18:46:15,137 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 18:46:17,338 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 18:46:18,246 - ERROR - Error in main function: The phone number is invalid (caused by SendCodeRequest)
+2024-10-11 19:00:45,570 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:00:45,745 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 19:00:47,917 - ERROR - Error in main function: The phone number is invalid (caused by SendCodeRequest)
+2024-10-11 19:05:09,362 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:05:09,503 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 19:05:10,675 - ERROR - Error in main function: The phone number is invalid (caused by SendCodeRequest)
+2024-10-11 19:10:59,309 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:10:59,499 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 19:11:00,384 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-11 19:11:00,414 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2024-10-11 19:11:00,414 - INFO - Closing current connection to begin reconnect...
+2024-10-11 19:11:00,414 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 19:11:00,415 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-11 19:11:00,535 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 19:11:01,192 - INFO - Phone migrated to 4
+2024-10-11 19:11:01,329 - INFO - Reconnecting to new data center 4
+2024-10-11 19:11:01,705 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-11 19:11:01,706 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-11 19:11:01,706 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 19:11:03,690 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 19:12:49,994 - INFO - Client started successfully.
+2024-10-11 19:12:50,152 - WARNING - No last ID file found for DoctorsET. Starting from 0.
+2024-10-11 19:12:51,159 - INFO - Processed message ID 864 from DoctorsET.
+2024-10-11 19:12:59,098 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-11 19:12:59,098 - INFO - Scraped data from DoctorsET.
+2024-10-11 19:12:59,098 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-11 19:12:59,098 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-11 19:12:59,255 - WARNING - No last ID file found for lobelia4cosmetics. Starting from 0.
+2024-10-11 19:12:59,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 19:13:00,374 - INFO - Downloaded media for message ID 12426.
+2024-10-11 19:13:00,374 - INFO - Processed message ID 12426 from lobelia4cosmetics.
+2024-10-11 19:13:25,574 - INFO - Saved last processed ID 12426 for lobelia4cosmetics.
+2024-10-11 19:13:25,575 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-11 19:13:25,727 - WARNING - No last ID file found for yetenaweg. Starting from 0.
+2024-10-11 19:13:26,297 - INFO - Processed message ID 1181 from yetenaweg.
+2024-10-11 19:13:38,821 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-11 19:13:38,821 - INFO - Scraped data from yetenaweg.
+2024-10-11 19:13:38,961 - WARNING - No last ID file found for EAHCI. Starting from 0.
+2024-10-11 19:13:40,652 - INFO - Processed message ID 2399 from EAHCI.
+2024-10-11 19:14:00,622 - INFO - Saved last processed ID 2399 for EAHCI.
+2024-10-11 19:14:00,622 - INFO - Scraped data from EAHCI.
