@@ -27,3 +27,931 @@
 2024-10-11 19:59:16,632 - INFO - Processed message ID 2399 from EAHCI.
 2024-10-11 19:59:36,348 - INFO - Saved last processed ID 2399 for EAHCI.
 2024-10-11 19:59:36,349 - INFO - Scraped data from EAHCI.
+2024-10-14 18:22:36,712 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:22:36,743 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:37,755 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:38,764 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:39,774 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:40,777 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:41,796 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:42,810 - ERROR - Error in main function: Connection to Telegram failed 5 time(s)
+2024-10-14 18:22:54,694 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:22:54,695 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:55,711 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:56,716 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:57,729 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:58,737 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:22:59,747 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 18:23:00,753 - ERROR - Error in main function: Connection to Telegram failed 5 time(s)
+2024-10-14 18:23:25,549 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:23:25,707 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 18:23:31,258 - INFO - Client started successfully.
+2024-10-14 18:23:40,803 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-14 18:23:40,804 - INFO - No new messages found for DoctorsET.
+2024-10-14 18:23:40,805 - INFO - Scraped data from DoctorsET.
+2024-10-14 18:23:40,806 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-14 18:23:40,807 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-14 18:23:42,268 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 18:23:46,090 - INFO - Downloaded media for message ID 12494.
+2024-10-14 18:23:46,090 - INFO - Processed message ID 12494 from lobelia4cosmetics.
+2024-10-14 18:24:13,329 - INFO - Saved last processed ID 12494 for lobelia4cosmetics.
+2024-10-14 18:24:13,330 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-14 18:24:49,208 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-14 18:24:49,209 - INFO - No new messages found for yetenaweg.
+2024-10-14 18:24:49,209 - INFO - Scraped data from yetenaweg.
+2024-10-14 18:24:50,376 - INFO - Processed message ID 2404 from EAHCI.
+2024-10-14 18:25:11,697 - INFO - Saved last processed ID 2404 for EAHCI.
+2024-10-14 18:25:11,699 - INFO - Scraped data from EAHCI.
+2024-10-14 18:36:00,698 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:36:00,869 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 18:36:02,364 - INFO - Client started successfully.
+2024-10-14 18:36:28,432 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-14 18:36:28,432 - INFO - No new messages found for DoctorsET.
+2024-10-14 18:36:28,432 - INFO - Scraped data from DoctorsET.
+2024-10-14 18:36:28,432 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-14 18:36:28,432 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-14 18:36:54,857 - INFO - Saved last processed ID 12494 for lobelia4cosmetics.
+2024-10-14 18:36:54,858 - INFO - No new messages found for lobelia4cosmetics.
+2024-10-14 18:36:54,858 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-14 18:37:08,702 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-14 18:37:08,714 - INFO - No new messages found for yetenaweg.
+2024-10-14 18:37:08,714 - INFO - Scraped data from yetenaweg.
+2024-10-14 18:37:31,388 - INFO - Saved last processed ID 2404 for EAHCI.
+2024-10-14 18:37:31,388 - INFO - No new messages found for EAHCI.
+2024-10-14 18:37:31,388 - INFO - Scraped data from EAHCI.
+2024-10-14 18:56:50,592 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:56:50,785 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 18:56:51,858 - INFO - Client started successfully.
+2024-10-14 18:56:51,858 - ERROR - Error in main function: [Errno 13] Permission denied: 'scraped_data.csv'
+2024-10-14 18:57:18,781 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:57:18,926 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 18:57:22,525 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-10-14 18:57:22,545 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2024-10-14 18:57:22,545 - INFO - Closing current connection to begin reconnect...
+2024-10-14 18:57:22,546 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 18:57:22,547 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-10-14 18:57:22,679 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 18:57:23,515 - INFO - Client started successfully.
+2024-10-14 18:57:32,069 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-14 18:57:32,069 - INFO - No new messages found for DoctorsET.
+2024-10-14 18:57:32,071 - INFO - Scraped data from DoctorsET.
+2024-10-14 18:57:32,072 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-14 18:57:32,072 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-14 18:57:56,825 - INFO - Saved last processed ID 12494 for lobelia4cosmetics.
+2024-10-14 18:57:56,825 - INFO - No new messages found for lobelia4cosmetics.
+2024-10-14 18:57:56,836 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-14 18:58:07,612 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-14 18:58:07,612 - INFO - No new messages found for yetenaweg.
+2024-10-14 18:58:07,612 - INFO - Scraped data from yetenaweg.
+2024-10-14 18:58:29,627 - INFO - Saved last processed ID 2404 for EAHCI.
+2024-10-14 18:58:29,628 - INFO - No new messages found for EAHCI.
+2024-10-14 18:58:29,628 - INFO - Scraped data from EAHCI.
+2024-10-14 19:02:41,416 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:02:41,602 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 19:02:43,572 - INFO - Client started successfully.
+2024-10-14 19:02:51,973 - INFO - Saved last processed ID 864 for DoctorsET.
+2024-10-14 19:02:51,973 - INFO - No new messages found for DoctorsET.
+2024-10-14 19:02:51,973 - INFO - Scraped data from DoctorsET.
+2024-10-14 19:02:51,973 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-14 19:02:51,973 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-14 19:03:16,507 - INFO - Saved last processed ID 12494 for lobelia4cosmetics.
+2024-10-14 19:03:16,509 - INFO - No new messages found for lobelia4cosmetics.
+2024-10-14 19:03:16,509 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-14 19:03:28,515 - INFO - Saved last processed ID 1181 for yetenaweg.
+2024-10-14 19:03:28,515 - INFO - No new messages found for yetenaweg.
+2024-10-14 19:03:28,515 - INFO - Scraped data from yetenaweg.
+2024-10-14 19:03:51,732 - INFO - Saved last processed ID 2404 for EAHCI.
+2024-10-14 19:03:51,733 - INFO - No new messages found for EAHCI.
+2024-10-14 19:03:51,733 - INFO - Scraped data from EAHCI.
+2024-10-14 19:05:30,304 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:05:30,473 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-14 19:05:32,249 - INFO - Client started successfully.
+2024-10-14 19:05:32,390 - WARNING - No last IDs file found for DoctorsET. Starting from an empty list.
+2024-10-14 19:05:33,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:34,605 - INFO - Downloaded media for message ID 864.
+2024-10-14 19:05:34,605 - INFO - Processed message ID 864 from DoctorsET.
+2024-10-14 19:05:34,607 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:36,408 - INFO - Downloaded media for message ID 863.
+2024-10-14 19:05:36,408 - INFO - Processed message ID 863 from DoctorsET.
+2024-10-14 19:05:36,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:38,280 - INFO - Downloaded media for message ID 862.
+2024-10-14 19:05:38,280 - INFO - Processed message ID 862 from DoctorsET.
+2024-10-14 19:05:38,282 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:40,586 - INFO - Downloaded media for message ID 861.
+2024-10-14 19:05:40,586 - INFO - Processed message ID 861 from DoctorsET.
+2024-10-14 19:05:40,601 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:42,697 - INFO - Downloaded media for message ID 860.
+2024-10-14 19:05:42,697 - INFO - Processed message ID 860 from DoctorsET.
+2024-10-14 19:05:42,706 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:45,050 - INFO - Downloaded media for message ID 859.
+2024-10-14 19:05:45,050 - INFO - Processed message ID 859 from DoctorsET.
+2024-10-14 19:05:45,051 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:46,952 - INFO - Downloaded media for message ID 848.
+2024-10-14 19:05:46,952 - INFO - Processed message ID 848 from DoctorsET.
+2024-10-14 19:05:46,960 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:48,468 - INFO - Downloaded media for message ID 847.
+2024-10-14 19:05:48,468 - INFO - Processed message ID 847 from DoctorsET.
+2024-10-14 19:05:48,469 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:50,561 - INFO - Downloaded media for message ID 846.
+2024-10-14 19:05:50,561 - INFO - Processed message ID 846 from DoctorsET.
+2024-10-14 19:05:50,572 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:52,803 - INFO - Downloaded media for message ID 845.
+2024-10-14 19:05:52,803 - INFO - Processed message ID 845 from DoctorsET.
+2024-10-14 19:05:52,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:54,837 - INFO - Downloaded media for message ID 844.
+2024-10-14 19:05:54,837 - INFO - Processed message ID 844 from DoctorsET.
+2024-10-14 19:05:54,839 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:57,117 - INFO - Downloaded media for message ID 843.
+2024-10-14 19:05:57,117 - INFO - Processed message ID 843 from DoctorsET.
+2024-10-14 19:05:57,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:58,253 - INFO - Downloaded media for message ID 842.
+2024-10-14 19:05:58,254 - INFO - Processed message ID 842 from DoctorsET.
+2024-10-14 19:05:58,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:05:59,303 - INFO - Downloaded media for message ID 841.
+2024-10-14 19:05:59,303 - INFO - Processed message ID 841 from DoctorsET.
+2024-10-14 19:05:59,306 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:00,203 - INFO - Downloaded media for message ID 840.
+2024-10-14 19:06:00,203 - INFO - Processed message ID 840 from DoctorsET.
+2024-10-14 19:06:00,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:02,589 - INFO - Downloaded media for message ID 839.
+2024-10-14 19:06:02,589 - INFO - Processed message ID 839 from DoctorsET.
+2024-10-14 19:06:02,590 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:04,584 - INFO - Downloaded media for message ID 836.
+2024-10-14 19:06:04,584 - INFO - Processed message ID 836 from DoctorsET.
+2024-10-14 19:06:04,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:06,074 - INFO - Downloaded media for message ID 835.
+2024-10-14 19:06:06,074 - INFO - Processed message ID 835 from DoctorsET.
+2024-10-14 19:06:06,076 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:07,310 - INFO - Downloaded media for message ID 834.
+2024-10-14 19:06:07,311 - INFO - Processed message ID 834 from DoctorsET.
+2024-10-14 19:06:07,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:08,783 - INFO - Downloaded media for message ID 833.
+2024-10-14 19:06:08,783 - INFO - Processed message ID 833 from DoctorsET.
+2024-10-14 19:06:08,784 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:13,005 - INFO - Downloaded media for message ID 832.
+2024-10-14 19:06:13,005 - INFO - Processed message ID 832 from DoctorsET.
+2024-10-14 19:06:13,006 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:14,894 - INFO - Downloaded media for message ID 831.
+2024-10-14 19:06:14,894 - INFO - Processed message ID 831 from DoctorsET.
+2024-10-14 19:06:14,896 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:17,847 - INFO - Downloaded media for message ID 830.
+2024-10-14 19:06:17,847 - INFO - Processed message ID 830 from DoctorsET.
+2024-10-14 19:06:17,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:19,708 - INFO - Downloaded media for message ID 829.
+2024-10-14 19:06:19,708 - INFO - Processed message ID 829 from DoctorsET.
+2024-10-14 19:06:19,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:21,014 - INFO - Downloaded media for message ID 828.
+2024-10-14 19:06:21,014 - INFO - Processed message ID 828 from DoctorsET.
+2024-10-14 19:06:21,017 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:22,641 - INFO - Downloaded media for message ID 827.
+2024-10-14 19:06:22,641 - INFO - Processed message ID 827 from DoctorsET.
+2024-10-14 19:06:22,642 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:23,582 - INFO - Downloaded media for message ID 826.
+2024-10-14 19:06:23,582 - INFO - Processed message ID 826 from DoctorsET.
+2024-10-14 19:06:23,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:24,288 - INFO - Downloaded media for message ID 825.
+2024-10-14 19:06:24,288 - INFO - Processed message ID 825 from DoctorsET.
+2024-10-14 19:06:24,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:25,064 - INFO - Downloaded media for message ID 824.
+2024-10-14 19:06:25,064 - INFO - Processed message ID 824 from DoctorsET.
+2024-10-14 19:06:25,066 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:26,012 - INFO - Downloaded media for message ID 823.
+2024-10-14 19:06:26,012 - INFO - Processed message ID 823 from DoctorsET.
+2024-10-14 19:06:26,013 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:26,895 - INFO - Downloaded media for message ID 822.
+2024-10-14 19:06:26,896 - INFO - Processed message ID 822 from DoctorsET.
+2024-10-14 19:06:26,897 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:28,681 - INFO - Downloaded media for message ID 821.
+2024-10-14 19:06:28,681 - INFO - Processed message ID 821 from DoctorsET.
+2024-10-14 19:06:28,684 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:29,642 - INFO - Downloaded media for message ID 820.
+2024-10-14 19:06:29,642 - INFO - Processed message ID 820 from DoctorsET.
+2024-10-14 19:06:29,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:30,385 - INFO - Downloaded media for message ID 819.
+2024-10-14 19:06:30,385 - INFO - Processed message ID 819 from DoctorsET.
+2024-10-14 19:06:30,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:06:31,579 - INFO - Downloaded media for message ID 818.
+2024-10-14 19:06:31,579 - INFO - Processed message ID 818 from DoctorsET.
+2024-10-14 19:06:31,580 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:08:58,041 - INFO - Downloaded media for message ID 817.
+2024-10-14 19:08:58,041 - INFO - Processed message ID 817 from DoctorsET.
+2024-10-14 19:08:58,041 - INFO - Downloaded media for message ID 815.
+2024-10-14 19:08:58,041 - INFO - Processed message ID 815 from DoctorsET.
+2024-10-14 19:08:58,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:08:58,818 - INFO - Downloaded media for message ID 814.
+2024-10-14 19:08:58,818 - INFO - Processed message ID 814 from DoctorsET.
+2024-10-14 19:08:58,819 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:08:59,838 - INFO - Downloaded media for message ID 813.
+2024-10-14 19:08:59,838 - INFO - Processed message ID 813 from DoctorsET.
+2024-10-14 19:08:59,839 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:01,068 - INFO - Downloaded media for message ID 812.
+2024-10-14 19:09:01,068 - INFO - Processed message ID 812 from DoctorsET.
+2024-10-14 19:09:01,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:03,104 - INFO - Downloaded media for message ID 811.
+2024-10-14 19:09:03,104 - INFO - Processed message ID 811 from DoctorsET.
+2024-10-14 19:09:03,107 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:04,245 - INFO - Downloaded media for message ID 810.
+2024-10-14 19:09:04,245 - INFO - Processed message ID 810 from DoctorsET.
+2024-10-14 19:09:04,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:05,396 - INFO - Downloaded media for message ID 809.
+2024-10-14 19:09:05,397 - INFO - Processed message ID 809 from DoctorsET.
+2024-10-14 19:09:05,398 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:07,225 - INFO - Downloaded media for message ID 808.
+2024-10-14 19:09:07,225 - INFO - Processed message ID 808 from DoctorsET.
+2024-10-14 19:09:07,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:09,834 - INFO - Downloaded media for message ID 807.
+2024-10-14 19:09:09,834 - INFO - Processed message ID 807 from DoctorsET.
+2024-10-14 19:09:09,839 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:11,388 - INFO - Downloaded media for message ID 805.
+2024-10-14 19:09:11,388 - INFO - Processed message ID 805 from DoctorsET.
+2024-10-14 19:09:11,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:12,363 - INFO - Downloaded media for message ID 804.
+2024-10-14 19:09:12,363 - INFO - Processed message ID 804 from DoctorsET.
+2024-10-14 19:09:12,365 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:13,670 - INFO - Downloaded media for message ID 802.
+2024-10-14 19:09:13,670 - INFO - Processed message ID 802 from DoctorsET.
+2024-10-14 19:09:13,671 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:14,925 - INFO - Downloaded media for message ID 801.
+2024-10-14 19:09:14,926 - INFO - Processed message ID 801 from DoctorsET.
+2024-10-14 19:09:14,927 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:15,911 - INFO - Downloaded media for message ID 800.
+2024-10-14 19:09:15,911 - INFO - Processed message ID 800 from DoctorsET.
+2024-10-14 19:09:15,914 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:16,734 - INFO - Downloaded media for message ID 799.
+2024-10-14 19:09:16,752 - INFO - Processed message ID 799 from DoctorsET.
+2024-10-14 19:09:16,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:17,668 - INFO - Downloaded media for message ID 798.
+2024-10-14 19:09:17,669 - INFO - Processed message ID 798 from DoctorsET.
+2024-10-14 19:09:17,670 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:18,516 - INFO - Downloaded media for message ID 797.
+2024-10-14 19:09:18,516 - INFO - Processed message ID 797 from DoctorsET.
+2024-10-14 19:09:18,517 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:19,261 - INFO - Downloaded media for message ID 796.
+2024-10-14 19:09:19,261 - INFO - Processed message ID 796 from DoctorsET.
+2024-10-14 19:09:19,262 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:20,772 - INFO - Downloaded media for message ID 795.
+2024-10-14 19:09:20,772 - INFO - Processed message ID 795 from DoctorsET.
+2024-10-14 19:09:20,773 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:21,875 - INFO - Downloaded media for message ID 794.
+2024-10-14 19:09:21,890 - INFO - Processed message ID 794 from DoctorsET.
+2024-10-14 19:09:21,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:22,867 - INFO - Downloaded media for message ID 793.
+2024-10-14 19:09:22,867 - INFO - Processed message ID 793 from DoctorsET.
+2024-10-14 19:09:22,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:24,063 - INFO - Downloaded media for message ID 792.
+2024-10-14 19:09:24,063 - INFO - Processed message ID 792 from DoctorsET.
+2024-10-14 19:09:24,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:25,739 - INFO - Downloaded media for message ID 791.
+2024-10-14 19:09:25,739 - INFO - Processed message ID 791 from DoctorsET.
+2024-10-14 19:09:25,739 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:27,444 - INFO - Downloaded media for message ID 790.
+2024-10-14 19:09:27,444 - INFO - Processed message ID 790 from DoctorsET.
+2024-10-14 19:09:27,444 - INFO - Processed message ID 789 from DoctorsET.
+2024-10-14 19:09:27,445 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:28,293 - INFO - Downloaded media for message ID 788.
+2024-10-14 19:09:28,293 - INFO - Processed message ID 788 from DoctorsET.
+2024-10-14 19:09:28,294 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:29,127 - INFO - Downloaded media for message ID 787.
+2024-10-14 19:09:29,127 - INFO - Processed message ID 787 from DoctorsET.
+2024-10-14 19:09:29,134 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:29,922 - INFO - Downloaded media for message ID 786.
+2024-10-14 19:09:29,922 - INFO - Processed message ID 786 from DoctorsET.
+2024-10-14 19:09:29,924 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:31,527 - INFO - Downloaded media for message ID 785.
+2024-10-14 19:09:31,527 - INFO - Processed message ID 785 from DoctorsET.
+2024-10-14 19:09:31,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:32,517 - INFO - Downloaded media for message ID 784.
+2024-10-14 19:09:32,517 - INFO - Processed message ID 784 from DoctorsET.
+2024-10-14 19:09:32,518 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:33,394 - INFO - Downloaded media for message ID 783.
+2024-10-14 19:09:33,394 - INFO - Processed message ID 783 from DoctorsET.
+2024-10-14 19:09:33,395 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:34,612 - INFO - Downloaded media for message ID 782.
+2024-10-14 19:09:34,612 - INFO - Processed message ID 782 from DoctorsET.
+2024-10-14 19:09:34,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:36,396 - INFO - Downloaded media for message ID 781.
+2024-10-14 19:09:36,396 - INFO - Processed message ID 781 from DoctorsET.
+2024-10-14 19:09:36,404 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:37,955 - INFO - Downloaded media for message ID 780.
+2024-10-14 19:09:37,955 - INFO - Processed message ID 780 from DoctorsET.
+2024-10-14 19:09:37,957 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:39,252 - INFO - Downloaded media for message ID 779.
+2024-10-14 19:09:39,252 - INFO - Processed message ID 779 from DoctorsET.
+2024-10-14 19:09:39,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:40,479 - INFO - Downloaded media for message ID 778.
+2024-10-14 19:09:40,479 - INFO - Processed message ID 778 from DoctorsET.
+2024-10-14 19:09:40,489 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:41,795 - INFO - Downloaded media for message ID 777.
+2024-10-14 19:09:41,795 - INFO - Processed message ID 777 from DoctorsET.
+2024-10-14 19:09:41,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:42,956 - INFO - Downloaded media for message ID 776.
+2024-10-14 19:09:42,956 - INFO - Processed message ID 776 from DoctorsET.
+2024-10-14 19:09:42,959 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:44,459 - INFO - Downloaded media for message ID 775.
+2024-10-14 19:09:44,459 - INFO - Processed message ID 775 from DoctorsET.
+2024-10-14 19:09:44,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:46,142 - INFO - Downloaded media for message ID 774.
+2024-10-14 19:09:46,142 - INFO - Processed message ID 774 from DoctorsET.
+2024-10-14 19:09:46,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:46,974 - INFO - Downloaded media for message ID 773.
+2024-10-14 19:09:46,974 - INFO - Processed message ID 773 from DoctorsET.
+2024-10-14 19:09:46,975 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:47,864 - INFO - Downloaded media for message ID 772.
+2024-10-14 19:09:47,864 - INFO - Processed message ID 772 from DoctorsET.
+2024-10-14 19:09:47,865 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:49,667 - INFO - Downloaded media for message ID 771.
+2024-10-14 19:09:49,667 - INFO - Processed message ID 771 from DoctorsET.
+2024-10-14 19:09:49,678 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:50,611 - INFO - Downloaded media for message ID 770.
+2024-10-14 19:09:50,611 - INFO - Processed message ID 770 from DoctorsET.
+2024-10-14 19:09:50,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:51,708 - INFO - Downloaded media for message ID 769.
+2024-10-14 19:09:51,708 - INFO - Processed message ID 769 from DoctorsET.
+2024-10-14 19:09:51,709 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:53,421 - INFO - Downloaded media for message ID 768.
+2024-10-14 19:09:53,422 - INFO - Processed message ID 768 from DoctorsET.
+2024-10-14 19:09:53,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:54,212 - INFO - Downloaded media for message ID 767.
+2024-10-14 19:09:54,212 - INFO - Processed message ID 767 from DoctorsET.
+2024-10-14 19:09:54,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:55,072 - INFO - Downloaded media for message ID 766.
+2024-10-14 19:09:55,072 - INFO - Processed message ID 766 from DoctorsET.
+2024-10-14 19:09:55,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:56,572 - INFO - Downloaded media for message ID 765.
+2024-10-14 19:09:56,580 - INFO - Processed message ID 765 from DoctorsET.
+2024-10-14 19:09:56,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:09:58,179 - INFO - Downloaded media for message ID 764.
+2024-10-14 19:09:58,179 - INFO - Processed message ID 764 from DoctorsET.
+2024-10-14 19:09:58,180 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:00,042 - INFO - Downloaded media for message ID 763.
+2024-10-14 19:10:00,042 - INFO - Processed message ID 763 from DoctorsET.
+2024-10-14 19:10:00,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:01,093 - INFO - Downloaded media for message ID 762.
+2024-10-14 19:10:01,093 - INFO - Processed message ID 762 from DoctorsET.
+2024-10-14 19:10:01,094 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:03,115 - INFO - Downloaded media for message ID 761.
+2024-10-14 19:10:03,115 - INFO - Processed message ID 761 from DoctorsET.
+2024-10-14 19:10:03,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:03,853 - INFO - Downloaded media for message ID 760.
+2024-10-14 19:10:03,853 - INFO - Processed message ID 760 from DoctorsET.
+2024-10-14 19:10:03,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:06,521 - INFO - Downloaded media for message ID 759.
+2024-10-14 19:10:06,521 - INFO - Processed message ID 759 from DoctorsET.
+2024-10-14 19:10:06,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:08,965 - INFO - Downloaded media for message ID 758.
+2024-10-14 19:10:08,965 - INFO - Processed message ID 758 from DoctorsET.
+2024-10-14 19:10:08,966 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:10,774 - INFO - Downloaded media for message ID 757.
+2024-10-14 19:10:10,775 - INFO - Processed message ID 757 from DoctorsET.
+2024-10-14 19:10:10,776 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:12,029 - INFO - Downloaded media for message ID 756.
+2024-10-14 19:10:12,029 - INFO - Processed message ID 756 from DoctorsET.
+2024-10-14 19:10:12,031 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:13,578 - INFO - Downloaded media for message ID 755.
+2024-10-14 19:10:13,578 - INFO - Processed message ID 755 from DoctorsET.
+2024-10-14 19:10:13,579 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:14,657 - INFO - Downloaded media for message ID 754.
+2024-10-14 19:10:14,657 - INFO - Processed message ID 754 from DoctorsET.
+2024-10-14 19:10:14,658 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:15,642 - INFO - Downloaded media for message ID 753.
+2024-10-14 19:10:15,642 - INFO - Processed message ID 753 from DoctorsET.
+2024-10-14 19:10:15,642 - INFO - Processed message ID 752 from DoctorsET.
+2024-10-14 19:10:15,644 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:17,627 - INFO - Downloaded media for message ID 751.
+2024-10-14 19:10:17,627 - INFO - Processed message ID 751 from DoctorsET.
+2024-10-14 19:10:17,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:18,284 - INFO - Downloaded media for message ID 750.
+2024-10-14 19:10:18,284 - INFO - Processed message ID 750 from DoctorsET.
+2024-10-14 19:10:19,123 - INFO - Processed message ID 749 from DoctorsET.
+2024-10-14 19:10:19,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:20,862 - INFO - Downloaded media for message ID 748.
+2024-10-14 19:10:20,862 - INFO - Processed message ID 748 from DoctorsET.
+2024-10-14 19:10:20,864 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:22,045 - INFO - Downloaded media for message ID 747.
+2024-10-14 19:10:22,045 - INFO - Processed message ID 747 from DoctorsET.
+2024-10-14 19:10:22,047 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:23,708 - INFO - Downloaded media for message ID 746.
+2024-10-14 19:10:23,708 - INFO - Processed message ID 746 from DoctorsET.
+2024-10-14 19:10:23,723 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:25,503 - INFO - Downloaded media for message ID 745.
+2024-10-14 19:10:25,503 - INFO - Processed message ID 745 from DoctorsET.
+2024-10-14 19:10:25,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:27,303 - INFO - Downloaded media for message ID 744.
+2024-10-14 19:10:27,303 - INFO - Processed message ID 744 from DoctorsET.
+2024-10-14 19:10:27,305 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:28,838 - INFO - Downloaded media for message ID 743.
+2024-10-14 19:10:28,838 - INFO - Processed message ID 743 from DoctorsET.
+2024-10-14 19:10:28,841 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:29,921 - INFO - Downloaded media for message ID 742.
+2024-10-14 19:10:29,921 - INFO - Processed message ID 742 from DoctorsET.
+2024-10-14 19:10:29,933 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:30,945 - INFO - Downloaded media for message ID 741.
+2024-10-14 19:10:31,032 - INFO - Processed message ID 741 from DoctorsET.
+2024-10-14 19:10:31,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:32,191 - INFO - Downloaded media for message ID 740.
+2024-10-14 19:10:32,192 - INFO - Processed message ID 740 from DoctorsET.
+2024-10-14 19:10:32,193 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:32,857 - INFO - Downloaded media for message ID 739.
+2024-10-14 19:10:32,857 - INFO - Processed message ID 739 from DoctorsET.
+2024-10-14 19:10:32,858 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:33,475 - INFO - Downloaded media for message ID 738.
+2024-10-14 19:10:33,475 - INFO - Processed message ID 738 from DoctorsET.
+2024-10-14 19:10:33,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:34,214 - INFO - Downloaded media for message ID 737.
+2024-10-14 19:10:34,214 - INFO - Processed message ID 737 from DoctorsET.
+2024-10-14 19:10:34,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:35,188 - INFO - Downloaded media for message ID 736.
+2024-10-14 19:10:35,188 - INFO - Processed message ID 736 from DoctorsET.
+2024-10-14 19:10:35,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:37,086 - INFO - Downloaded media for message ID 734.
+2024-10-14 19:10:37,086 - INFO - Processed message ID 734 from DoctorsET.
+2024-10-14 19:10:37,088 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:37,854 - INFO - Downloaded media for message ID 733.
+2024-10-14 19:10:37,854 - INFO - Processed message ID 733 from DoctorsET.
+2024-10-14 19:10:37,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:39,237 - INFO - Downloaded media for message ID 732.
+2024-10-14 19:10:39,237 - INFO - Processed message ID 732 from DoctorsET.
+2024-10-14 19:10:39,252 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:40,743 - INFO - Downloaded media for message ID 731.
+2024-10-14 19:10:40,743 - INFO - Processed message ID 731 from DoctorsET.
+2024-10-14 19:10:40,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:42,537 - INFO - Downloaded media for message ID 730.
+2024-10-14 19:10:42,537 - INFO - Processed message ID 730 from DoctorsET.
+2024-10-14 19:10:42,538 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:43,210 - INFO - Downloaded media for message ID 729.
+2024-10-14 19:10:43,210 - INFO - Processed message ID 729 from DoctorsET.
+2024-10-14 19:10:43,218 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:43,925 - INFO - Downloaded media for message ID 728.
+2024-10-14 19:10:43,925 - INFO - Processed message ID 728 from DoctorsET.
+2024-10-14 19:10:43,936 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:44,736 - INFO - Downloaded media for message ID 727.
+2024-10-14 19:10:44,736 - INFO - Processed message ID 727 from DoctorsET.
+2024-10-14 19:10:44,738 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:47,161 - INFO - Downloaded media for message ID 726.
+2024-10-14 19:10:47,161 - INFO - Processed message ID 726 from DoctorsET.
+2024-10-14 19:10:47,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:48,214 - INFO - Downloaded media for message ID 725.
+2024-10-14 19:10:48,214 - INFO - Processed message ID 725 from DoctorsET.
+2024-10-14 19:10:48,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:49,444 - INFO - Downloaded media for message ID 724.
+2024-10-14 19:10:49,444 - INFO - Processed message ID 724 from DoctorsET.
+2024-10-14 19:10:49,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:50,579 - INFO - Downloaded media for message ID 723.
+2024-10-14 19:10:50,579 - INFO - Processed message ID 723 from DoctorsET.
+2024-10-14 19:10:50,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:52,695 - INFO - Downloaded media for message ID 722.
+2024-10-14 19:10:52,695 - INFO - Processed message ID 722 from DoctorsET.
+2024-10-14 19:10:52,696 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:54,031 - INFO - Downloaded media for message ID 721.
+2024-10-14 19:10:54,031 - INFO - Processed message ID 721 from DoctorsET.
+2024-10-14 19:10:54,032 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:55,200 - INFO - Downloaded media for message ID 720.
+2024-10-14 19:10:55,200 - INFO - Processed message ID 720 from DoctorsET.
+2024-10-14 19:10:55,202 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:56,859 - INFO - Downloaded media for message ID 719.
+2024-10-14 19:10:56,859 - INFO - Processed message ID 719 from DoctorsET.
+2024-10-14 19:10:56,867 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:57,794 - INFO - Downloaded media for message ID 718.
+2024-10-14 19:10:57,794 - INFO - Processed message ID 718 from DoctorsET.
+2024-10-14 19:10:57,796 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:10:59,056 - INFO - Downloaded media for message ID 717.
+2024-10-14 19:10:59,057 - INFO - Processed message ID 717 from DoctorsET.
+2024-10-14 19:10:59,059 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:00,213 - INFO - Downloaded media for message ID 716.
+2024-10-14 19:11:00,213 - INFO - Processed message ID 716 from DoctorsET.
+2024-10-14 19:11:00,215 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:02,284 - INFO - Downloaded media for message ID 715.
+2024-10-14 19:11:02,284 - INFO - Processed message ID 715 from DoctorsET.
+2024-10-14 19:11:02,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:04,219 - INFO - Downloaded media for message ID 714.
+2024-10-14 19:11:04,219 - INFO - Processed message ID 714 from DoctorsET.
+2024-10-14 19:11:04,220 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:06,170 - INFO - Downloaded media for message ID 713.
+2024-10-14 19:11:06,170 - INFO - Processed message ID 713 from DoctorsET.
+2024-10-14 19:11:06,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:07,620 - INFO - Downloaded media for message ID 712.
+2024-10-14 19:11:07,620 - INFO - Processed message ID 712 from DoctorsET.
+2024-10-14 19:11:07,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:08,841 - INFO - Downloaded media for message ID 711.
+2024-10-14 19:11:08,841 - INFO - Processed message ID 711 from DoctorsET.
+2024-10-14 19:11:08,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:10,320 - INFO - Downloaded media for message ID 710.
+2024-10-14 19:11:10,320 - INFO - Processed message ID 710 from DoctorsET.
+2024-10-14 19:11:10,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:12,274 - INFO - Downloaded media for message ID 709.
+2024-10-14 19:11:12,274 - INFO - Processed message ID 709 from DoctorsET.
+2024-10-14 19:11:12,275 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:19,875 - INFO - Downloaded media for message ID 708.
+2024-10-14 19:11:19,875 - INFO - Processed message ID 708 from DoctorsET.
+2024-10-14 19:11:19,876 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:21,252 - INFO - Downloaded media for message ID 707.
+2024-10-14 19:11:21,252 - INFO - Processed message ID 707 from DoctorsET.
+2024-10-14 19:11:21,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:24,592 - INFO - Downloaded media for message ID 706.
+2024-10-14 19:11:24,592 - INFO - Processed message ID 706 from DoctorsET.
+2024-10-14 19:11:24,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:28,823 - INFO - Downloaded media for message ID 704.
+2024-10-14 19:11:28,824 - INFO - Processed message ID 704 from DoctorsET.
+2024-10-14 19:11:28,827 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:32,094 - INFO - Downloaded media for message ID 703.
+2024-10-14 19:11:32,094 - INFO - Processed message ID 703 from DoctorsET.
+2024-10-14 19:11:32,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:35,518 - INFO - Downloaded media for message ID 702.
+2024-10-14 19:11:35,518 - INFO - Processed message ID 702 from DoctorsET.
+2024-10-14 19:11:35,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:37,906 - INFO - Downloaded media for message ID 701.
+2024-10-14 19:11:37,906 - INFO - Processed message ID 701 from DoctorsET.
+2024-10-14 19:11:37,917 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:41,174 - INFO - Downloaded media for message ID 700.
+2024-10-14 19:11:41,174 - INFO - Processed message ID 700 from DoctorsET.
+2024-10-14 19:11:41,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:42,431 - INFO - Downloaded media for message ID 699.
+2024-10-14 19:11:42,431 - INFO - Processed message ID 699 from DoctorsET.
+2024-10-14 19:11:42,432 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:43,766 - INFO - Downloaded media for message ID 698.
+2024-10-14 19:11:43,766 - INFO - Processed message ID 698 from DoctorsET.
+2024-10-14 19:11:43,768 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:45,538 - INFO - Downloaded media for message ID 697.
+2024-10-14 19:11:45,538 - INFO - Processed message ID 697 from DoctorsET.
+2024-10-14 19:11:45,540 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:46,208 - INFO - Downloaded media for message ID 696.
+2024-10-14 19:11:46,208 - INFO - Processed message ID 696 from DoctorsET.
+2024-10-14 19:11:46,210 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:49,295 - INFO - Downloaded media for message ID 695.
+2024-10-14 19:11:49,295 - INFO - Processed message ID 695 from DoctorsET.
+2024-10-14 19:11:49,296 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:51,687 - INFO - Downloaded media for message ID 694.
+2024-10-14 19:11:51,687 - INFO - Processed message ID 694 from DoctorsET.
+2024-10-14 19:11:51,688 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:54,783 - INFO - Downloaded media for message ID 693.
+2024-10-14 19:11:54,783 - INFO - Processed message ID 693 from DoctorsET.
+2024-10-14 19:11:54,783 - INFO - Processed message ID 692 from DoctorsET.
+2024-10-14 19:11:54,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:56,953 - INFO - Downloaded media for message ID 691.
+2024-10-14 19:11:56,953 - INFO - Processed message ID 691 from DoctorsET.
+2024-10-14 19:11:56,970 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:11:59,527 - INFO - Downloaded media for message ID 689.
+2024-10-14 19:11:59,527 - INFO - Processed message ID 689 from DoctorsET.
+2024-10-14 19:11:59,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:01,253 - INFO - Downloaded media for message ID 688.
+2024-10-14 19:12:01,253 - INFO - Processed message ID 688 from DoctorsET.
+2024-10-14 19:12:01,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:02,487 - INFO - Downloaded media for message ID 687.
+2024-10-14 19:12:02,487 - INFO - Processed message ID 687 from DoctorsET.
+2024-10-14 19:12:02,496 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:05,042 - INFO - Downloaded media for message ID 686.
+2024-10-14 19:12:05,043 - INFO - Processed message ID 686 from DoctorsET.
+2024-10-14 19:12:05,046 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:06,517 - INFO - Downloaded media for message ID 685.
+2024-10-14 19:12:06,517 - INFO - Processed message ID 685 from DoctorsET.
+2024-10-14 19:12:06,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:09,254 - INFO - Downloaded media for message ID 684.
+2024-10-14 19:12:09,254 - INFO - Processed message ID 684 from DoctorsET.
+2024-10-14 19:12:09,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:11,912 - INFO - Downloaded media for message ID 683.
+2024-10-14 19:12:11,912 - INFO - Processed message ID 683 from DoctorsET.
+2024-10-14 19:12:11,913 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:14,527 - INFO - Downloaded media for message ID 682.
+2024-10-14 19:12:14,527 - INFO - Processed message ID 682 from DoctorsET.
+2024-10-14 19:12:14,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:17,495 - INFO - Downloaded media for message ID 681.
+2024-10-14 19:12:17,495 - INFO - Processed message ID 681 from DoctorsET.
+2024-10-14 19:12:17,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:20,701 - INFO - Downloaded media for message ID 680.
+2024-10-14 19:12:20,702 - INFO - Processed message ID 680 from DoctorsET.
+2024-10-14 19:12:20,703 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:22,885 - INFO - Downloaded media for message ID 679.
+2024-10-14 19:12:22,885 - INFO - Processed message ID 679 from DoctorsET.
+2024-10-14 19:12:22,886 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:26,080 - INFO - Downloaded media for message ID 678.
+2024-10-14 19:12:26,080 - INFO - Processed message ID 678 from DoctorsET.
+2024-10-14 19:12:26,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:27,631 - INFO - Downloaded media for message ID 677.
+2024-10-14 19:12:27,631 - INFO - Processed message ID 677 from DoctorsET.
+2024-10-14 19:12:27,633 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:29,954 - INFO - Downloaded media for message ID 676.
+2024-10-14 19:12:29,954 - INFO - Processed message ID 676 from DoctorsET.
+2024-10-14 19:12:29,955 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:31,644 - INFO - Downloaded media for message ID 675.
+2024-10-14 19:12:31,644 - INFO - Processed message ID 675 from DoctorsET.
+2024-10-14 19:12:31,646 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:33,067 - INFO - Downloaded media for message ID 674.
+2024-10-14 19:12:33,067 - INFO - Processed message ID 674 from DoctorsET.
+2024-10-14 19:12:33,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:34,988 - INFO - Downloaded media for message ID 673.
+2024-10-14 19:12:34,988 - INFO - Processed message ID 673 from DoctorsET.
+2024-10-14 19:12:34,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:37,391 - INFO - Downloaded media for message ID 672.
+2024-10-14 19:12:37,391 - INFO - Processed message ID 672 from DoctorsET.
+2024-10-14 19:12:37,392 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:39,297 - INFO - Downloaded media for message ID 671.
+2024-10-14 19:12:39,297 - INFO - Processed message ID 671 from DoctorsET.
+2024-10-14 19:12:39,299 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:40,978 - INFO - Downloaded media for message ID 670.
+2024-10-14 19:12:40,978 - INFO - Processed message ID 670 from DoctorsET.
+2024-10-14 19:12:40,980 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:42,688 - INFO - Downloaded media for message ID 669.
+2024-10-14 19:12:42,702 - INFO - Processed message ID 669 from DoctorsET.
+2024-10-14 19:12:42,704 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:44,469 - INFO - Downloaded media for message ID 668.
+2024-10-14 19:12:44,469 - INFO - Processed message ID 668 from DoctorsET.
+2024-10-14 19:12:44,470 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:45,648 - INFO - Downloaded media for message ID 667.
+2024-10-14 19:12:45,648 - INFO - Processed message ID 667 from DoctorsET.
+2024-10-14 19:12:45,652 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:48,053 - INFO - Downloaded media for message ID 666.
+2024-10-14 19:12:48,053 - INFO - Processed message ID 666 from DoctorsET.
+2024-10-14 19:12:48,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:49,418 - INFO - Downloaded media for message ID 665.
+2024-10-14 19:12:49,418 - INFO - Processed message ID 665 from DoctorsET.
+2024-10-14 19:12:49,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:50,646 - INFO - Downloaded media for message ID 664.
+2024-10-14 19:12:50,646 - INFO - Processed message ID 664 from DoctorsET.
+2024-10-14 19:12:50,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:52,335 - INFO - Downloaded media for message ID 663.
+2024-10-14 19:12:52,335 - INFO - Processed message ID 663 from DoctorsET.
+2024-10-14 19:12:52,339 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:54,235 - INFO - Downloaded media for message ID 662.
+2024-10-14 19:12:54,235 - INFO - Processed message ID 662 from DoctorsET.
+2024-10-14 19:12:54,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:55,375 - INFO - Downloaded media for message ID 661.
+2024-10-14 19:12:55,375 - INFO - Processed message ID 661 from DoctorsET.
+2024-10-14 19:12:55,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:56,791 - INFO - Downloaded media for message ID 660.
+2024-10-14 19:12:56,791 - INFO - Processed message ID 660 from DoctorsET.
+2024-10-14 19:12:56,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:58,108 - INFO - Downloaded media for message ID 659.
+2024-10-14 19:12:58,109 - INFO - Processed message ID 659 from DoctorsET.
+2024-10-14 19:12:58,110 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:12:59,307 - INFO - Downloaded media for message ID 658.
+2024-10-14 19:12:59,307 - INFO - Processed message ID 658 from DoctorsET.
+2024-10-14 19:12:59,309 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:00,741 - INFO - Downloaded media for message ID 657.
+2024-10-14 19:13:00,741 - INFO - Processed message ID 657 from DoctorsET.
+2024-10-14 19:13:00,742 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:01,152 - INFO - Downloaded media for message ID 656.
+2024-10-14 19:13:01,152 - INFO - Processed message ID 656 from DoctorsET.
+2024-10-14 19:13:01,155 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:02,317 - INFO - Downloaded media for message ID 655.
+2024-10-14 19:13:02,318 - INFO - Processed message ID 655 from DoctorsET.
+2024-10-14 19:13:02,319 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:03,719 - INFO - Downloaded media for message ID 654.
+2024-10-14 19:13:03,719 - INFO - Processed message ID 654 from DoctorsET.
+2024-10-14 19:13:03,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:05,201 - INFO - Downloaded media for message ID 653.
+2024-10-14 19:13:05,201 - INFO - Processed message ID 653 from DoctorsET.
+2024-10-14 19:13:05,203 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:07,174 - INFO - Downloaded media for message ID 652.
+2024-10-14 19:13:07,174 - INFO - Processed message ID 652 from DoctorsET.
+2024-10-14 19:13:07,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:08,649 - INFO - Downloaded media for message ID 651.
+2024-10-14 19:13:08,649 - INFO - Processed message ID 651 from DoctorsET.
+2024-10-14 19:13:08,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:10,182 - INFO - Downloaded media for message ID 650.
+2024-10-14 19:13:10,182 - INFO - Processed message ID 650 from DoctorsET.
+2024-10-14 19:13:10,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:12,012 - INFO - Downloaded media for message ID 648.
+2024-10-14 19:13:12,012 - INFO - Processed message ID 648 from DoctorsET.
+2024-10-14 19:13:12,013 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:13,370 - INFO - Downloaded media for message ID 647.
+2024-10-14 19:13:13,370 - INFO - Processed message ID 647 from DoctorsET.
+2024-10-14 19:13:13,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:14,605 - INFO - Downloaded media for message ID 644.
+2024-10-14 19:13:14,605 - INFO - Processed message ID 644 from DoctorsET.
+2024-10-14 19:13:15,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:17,265 - INFO - Downloaded media for message ID 643.
+2024-10-14 19:13:17,265 - INFO - Processed message ID 643 from DoctorsET.
+2024-10-14 19:13:17,267 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:18,702 - INFO - Downloaded media for message ID 642.
+2024-10-14 19:13:18,702 - INFO - Processed message ID 642 from DoctorsET.
+2024-10-14 19:13:18,702 - INFO - Processed message ID 641 from DoctorsET.
+2024-10-14 19:13:18,704 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:20,773 - INFO - Downloaded media for message ID 640.
+2024-10-14 19:13:20,773 - INFO - Processed message ID 640 from DoctorsET.
+2024-10-14 19:13:20,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:23,797 - INFO - Downloaded media for message ID 639.
+2024-10-14 19:13:23,797 - INFO - Processed message ID 639 from DoctorsET.
+2024-10-14 19:13:23,811 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:26,494 - INFO - Downloaded media for message ID 638.
+2024-10-14 19:13:26,494 - INFO - Processed message ID 638 from DoctorsET.
+2024-10-14 19:13:26,505 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:29,121 - INFO - Downloaded media for message ID 637.
+2024-10-14 19:13:29,121 - INFO - Processed message ID 637 from DoctorsET.
+2024-10-14 19:13:29,121 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:31,869 - INFO - Downloaded media for message ID 636.
+2024-10-14 19:13:31,869 - INFO - Processed message ID 636 from DoctorsET.
+2024-10-14 19:13:31,882 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:35,117 - INFO - Downloaded media for message ID 635.
+2024-10-14 19:13:35,117 - INFO - Processed message ID 635 from DoctorsET.
+2024-10-14 19:13:35,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:38,496 - INFO - Downloaded media for message ID 634.
+2024-10-14 19:13:38,496 - INFO - Processed message ID 634 from DoctorsET.
+2024-10-14 19:13:38,498 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:40,361 - INFO - Downloaded media for message ID 633.
+2024-10-14 19:13:40,361 - INFO - Processed message ID 633 from DoctorsET.
+2024-10-14 19:13:40,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:41,818 - INFO - Downloaded media for message ID 632.
+2024-10-14 19:13:41,823 - INFO - Processed message ID 632 from DoctorsET.
+2024-10-14 19:13:41,824 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:44,633 - INFO - Downloaded media for message ID 631.
+2024-10-14 19:13:44,633 - INFO - Processed message ID 631 from DoctorsET.
+2024-10-14 19:13:44,633 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:47,157 - INFO - Downloaded media for message ID 630.
+2024-10-14 19:13:47,157 - INFO - Processed message ID 630 from DoctorsET.
+2024-10-14 19:13:47,166 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:51,284 - INFO - Downloaded media for message ID 629.
+2024-10-14 19:13:51,285 - INFO - Processed message ID 629 from DoctorsET.
+2024-10-14 19:13:51,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:54,166 - INFO - Downloaded media for message ID 628.
+2024-10-14 19:13:54,166 - INFO - Processed message ID 628 from DoctorsET.
+2024-10-14 19:13:54,167 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:56,960 - INFO - Downloaded media for message ID 627.
+2024-10-14 19:13:56,960 - INFO - Processed message ID 627 from DoctorsET.
+2024-10-14 19:13:56,962 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:13:59,482 - INFO - Downloaded media for message ID 626.
+2024-10-14 19:13:59,482 - INFO - Processed message ID 626 from DoctorsET.
+2024-10-14 19:13:59,486 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:02,190 - INFO - Downloaded media for message ID 625.
+2024-10-14 19:14:02,190 - INFO - Processed message ID 625 from DoctorsET.
+2024-10-14 19:14:02,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:04,158 - INFO - Downloaded media for message ID 624.
+2024-10-14 19:14:04,158 - INFO - Processed message ID 624 from DoctorsET.
+2024-10-14 19:14:04,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:05,962 - INFO - Downloaded media for message ID 623.
+2024-10-14 19:14:05,962 - INFO - Processed message ID 623 from DoctorsET.
+2024-10-14 19:14:05,967 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:06,818 - INFO - Downloaded media for message ID 622.
+2024-10-14 19:14:06,818 - INFO - Processed message ID 622 from DoctorsET.
+2024-10-14 19:14:06,820 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:07,732 - INFO - Downloaded media for message ID 621.
+2024-10-14 19:14:07,733 - INFO - Processed message ID 621 from DoctorsET.
+2024-10-14 19:14:07,735 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:10,235 - INFO - Downloaded media for message ID 620.
+2024-10-14 19:14:10,235 - INFO - Processed message ID 620 from DoctorsET.
+2024-10-14 19:14:10,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:14,245 - INFO - Downloaded media for message ID 619.
+2024-10-14 19:14:14,246 - INFO - Processed message ID 619 from DoctorsET.
+2024-10-14 19:14:14,251 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:16,199 - INFO - Downloaded media for message ID 618.
+2024-10-14 19:14:16,199 - INFO - Processed message ID 618 from DoctorsET.
+2024-10-14 19:14:16,201 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:18,470 - INFO - Downloaded media for message ID 617.
+2024-10-14 19:14:18,470 - INFO - Processed message ID 617 from DoctorsET.
+2024-10-14 19:14:18,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:20,079 - INFO - Downloaded media for message ID 616.
+2024-10-14 19:14:20,079 - INFO - Processed message ID 616 from DoctorsET.
+2024-10-14 19:14:20,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:21,673 - INFO - Downloaded media for message ID 615.
+2024-10-14 19:14:21,673 - INFO - Processed message ID 615 from DoctorsET.
+2024-10-14 19:14:21,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:22,241 - INFO - Downloaded media for message ID 614.
+2024-10-14 19:14:22,241 - INFO - Processed message ID 614 from DoctorsET.
+2024-10-14 19:14:22,243 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:24,450 - INFO - Downloaded media for message ID 613.
+2024-10-14 19:14:24,450 - INFO - Processed message ID 613 from DoctorsET.
+2024-10-14 19:14:24,451 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:27,087 - INFO - Downloaded media for message ID 612.
+2024-10-14 19:14:27,095 - INFO - Processed message ID 612 from DoctorsET.
+2024-10-14 19:14:27,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:30,812 - INFO - Downloaded media for message ID 611.
+2024-10-14 19:14:30,812 - INFO - Processed message ID 611 from DoctorsET.
+2024-10-14 19:14:30,815 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:33,008 - INFO - Downloaded media for message ID 610.
+2024-10-14 19:14:33,008 - INFO - Processed message ID 610 from DoctorsET.
+2024-10-14 19:14:33,010 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:35,731 - INFO - Downloaded media for message ID 609.
+2024-10-14 19:14:35,731 - INFO - Processed message ID 609 from DoctorsET.
+2024-10-14 19:14:35,733 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:38,879 - INFO - Downloaded media for message ID 607.
+2024-10-14 19:14:38,879 - INFO - Processed message ID 607 from DoctorsET.
+2024-10-14 19:14:38,879 - INFO - Processed message ID 606 from DoctorsET.
+2024-10-14 19:14:38,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:43,093 - INFO - Downloaded media for message ID 605.
+2024-10-14 19:14:43,093 - INFO - Processed message ID 605 from DoctorsET.
+2024-10-14 19:14:43,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:44,425 - INFO - Downloaded media for message ID 604.
+2024-10-14 19:14:44,425 - INFO - Processed message ID 604 from DoctorsET.
+2024-10-14 19:14:44,426 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:45,048 - INFO - Downloaded media for message ID 603.
+2024-10-14 19:14:45,048 - INFO - Processed message ID 603 from DoctorsET.
+2024-10-14 19:14:45,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:47,329 - INFO - Downloaded media for message ID 602.
+2024-10-14 19:14:47,329 - INFO - Processed message ID 602 from DoctorsET.
+2024-10-14 19:14:47,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:49,736 - INFO - Downloaded media for message ID 601.
+2024-10-14 19:14:49,736 - INFO - Processed message ID 601 from DoctorsET.
+2024-10-14 19:14:49,740 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:51,300 - INFO - Downloaded media for message ID 600.
+2024-10-14 19:14:51,300 - INFO - Processed message ID 600 from DoctorsET.
+2024-10-14 19:14:51,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:53,157 - INFO - Downloaded media for message ID 599.
+2024-10-14 19:14:53,157 - INFO - Processed message ID 599 from DoctorsET.
+2024-10-14 19:14:53,159 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:55,093 - INFO - Downloaded media for message ID 597.
+2024-10-14 19:14:55,093 - INFO - Processed message ID 597 from DoctorsET.
+2024-10-14 19:14:55,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:56,510 - INFO - Downloaded media for message ID 596.
+2024-10-14 19:14:56,510 - INFO - Processed message ID 596 from DoctorsET.
+2024-10-14 19:14:56,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:57,945 - INFO - Downloaded media for message ID 595.
+2024-10-14 19:14:57,945 - INFO - Processed message ID 595 from DoctorsET.
+2024-10-14 19:14:57,947 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:14:59,582 - INFO - Downloaded media for message ID 594.
+2024-10-14 19:14:59,582 - INFO - Processed message ID 594 from DoctorsET.
+2024-10-14 19:14:59,582 - INFO - Processed message ID 593 from DoctorsET.
+2024-10-14 19:14:59,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:01,000 - INFO - Downloaded media for message ID 592.
+2024-10-14 19:15:01,008 - INFO - Processed message ID 592 from DoctorsET.
+2024-10-14 19:15:01,009 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:02,985 - INFO - Downloaded media for message ID 591.
+2024-10-14 19:15:02,985 - INFO - Processed message ID 591 from DoctorsET.
+2024-10-14 19:15:02,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:05,200 - INFO - Downloaded media for message ID 590.
+2024-10-14 19:15:05,200 - INFO - Processed message ID 590 from DoctorsET.
+2024-10-14 19:15:05,206 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:08,022 - INFO - Downloaded media for message ID 589.
+2024-10-14 19:15:08,022 - INFO - Processed message ID 589 from DoctorsET.
+2024-10-14 19:15:08,037 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:09,767 - INFO - Downloaded media for message ID 588.
+2024-10-14 19:15:09,767 - INFO - Processed message ID 588 from DoctorsET.
+2024-10-14 19:15:09,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:11,134 - INFO - Downloaded media for message ID 587.
+2024-10-14 19:15:11,134 - INFO - Processed message ID 587 from DoctorsET.
+2024-10-14 19:15:11,134 - INFO - Processed message ID 586 from DoctorsET.
+2024-10-14 19:15:11,136 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:12,745 - INFO - Downloaded media for message ID 585.
+2024-10-14 19:15:12,746 - INFO - Processed message ID 585 from DoctorsET.
+2024-10-14 19:15:12,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:14,679 - INFO - Downloaded media for message ID 584.
+2024-10-14 19:15:14,680 - INFO - Processed message ID 584 from DoctorsET.
+2024-10-14 19:15:14,683 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:16,162 - INFO - Downloaded media for message ID 583.
+2024-10-14 19:15:16,162 - INFO - Processed message ID 583 from DoctorsET.
+2024-10-14 19:15:16,164 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:17,318 - INFO - Downloaded media for message ID 582.
+2024-10-14 19:15:17,318 - INFO - Processed message ID 582 from DoctorsET.
+2024-10-14 19:15:17,318 - INFO - Processed message ID 581 from DoctorsET.
+2024-10-14 19:15:17,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:15:18,202 - INFO - Downloaded media for message ID 579.
+2024-10-14 19:15:18,202 - INFO - Processed message ID 579 from DoctorsET.
+2024-10-14 19:15:18,204 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-14 19:16:30,071 - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2024-10-14 19:16:30,073 - INFO - Connection closed while receiving data: [WinError 121] The semaphore timeout period has expired
+2024-10-14 19:16:30,074 - INFO - Closing current connection to begin reconnect...
+2024-10-14 19:16:30,075 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:16:30,077 - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2024-10-14 19:16:39,905 - WARNING - Attempt 1 at connecting failed: ConnectionAbortedError: [WinError 1236] The network connection was aborted by the local system
+2024-10-14 19:16:40,926 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:41,937 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:42,943 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:43,968 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:45,024 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:46,026 - INFO - Failed reconnection attempt 1 with ConnectionError
+2024-10-14 19:16:47,047 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:16:47,064 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:16:58,083 - WARNING - Attempt 2 at connecting failed: TimeoutError: 
+2024-10-14 19:17:09,124 - WARNING - Attempt 3 at connecting failed: TimeoutError: 
+2024-10-14 19:17:20,150 - WARNING - Attempt 4 at connecting failed: TimeoutError: 
+2024-10-14 19:17:31,174 - WARNING - Attempt 5 at connecting failed: TimeoutError: 
+2024-10-14 19:17:42,202 - WARNING - Attempt 6 at connecting failed: TimeoutError: 
+2024-10-14 19:17:43,208 - INFO - Failed reconnection attempt 2 with ConnectionError
+2024-10-14 19:17:44,224 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:17:54,230 - WARNING - Attempt 1 at connecting failed: TimeoutError: 
+2024-10-14 19:17:55,238 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:17:56,240 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:17:57,249 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:17:58,263 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:17:59,268 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:00,278 - INFO - Failed reconnection attempt 3 with ConnectionError
+2024-10-14 19:18:01,281 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:18:01,283 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:02,301 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:03,309 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:04,319 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:05,327 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:06,335 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:07,341 - INFO - Failed reconnection attempt 4 with ConnectionError
+2024-10-14 19:18:08,354 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-14 19:18:08,356 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:09,365 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:10,372 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:11,374 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:12,388 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:13,399 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-10-14 19:18:14,402 - INFO - Failed reconnection attempt 5 with ConnectionError
+2024-10-14 19:18:15,405 - ERROR - Automatic reconnection failed 5 time(s)
+2024-10-14 19:18:15,405 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-14 19:18:15,405 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-14 19:18:15,420 - ERROR - Future exception was never retrieved
+future: <Future finished exception=ConnectionError('Connection to Telegram failed 5 time(s)')>
+ConnectionError: Connection to Telegram failed 5 time(s)
+2024-10-14 19:18:15,432 - ERROR - Error while scraping DoctorsET: Connection to Telegram failed 5 time(s)
+2024-10-14 19:18:15,432 - INFO - Scraped data from DoctorsET.
+2024-10-14 19:18:15,432 - ERROR - Error while scraping Chemed Telegram Channel: Cannot find any entity corresponding to "Chemed Telegram Channel"
+2024-10-14 19:18:15,432 - INFO - Scraped data from Chemed Telegram Channel.
+2024-10-14 19:18:15,432 - ERROR - Error while scraping lobelia4cosmetics: Cannot send requests while disconnected
+2024-10-14 19:18:15,432 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-14 19:18:15,432 - ERROR - Error while scraping yetenaweg: Cannot send requests while disconnected
+2024-10-14 19:18:15,432 - INFO - Scraped data from yetenaweg.
+2024-10-14 19:18:15,432 - ERROR - Error while scraping EAHCI: Cannot send requests while disconnected
+2024-10-14 19:18:15,432 - INFO - Scraped data from EAHCI.

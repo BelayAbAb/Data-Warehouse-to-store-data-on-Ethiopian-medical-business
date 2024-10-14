@@ -16,26 +16,27 @@ api_id = 26737733
 api_hash = 'f590cc7e473a4e1c9ea4f7bc59163016'
 phone = '+251940250405'
 
-# Function to save last processed message ID
-def save_last_processed_id(channel_username, last_id):
-    with open(f"{channel_username}_last_id.json", 'w') as f:
-        json.dump({'last_id': last_id}, f)
-        logging.info(f"Saved last processed ID {last_id} for {channel_username}.")
+# Function to save last processed message IDs
+def save_last_processed_ids(channel_username, last_ids):
+    with open(f"{channel_username}_last_ids.json", 'w') as f:
+        json.dump({'last_ids': last_ids}, f)
+        logging.info(f"Saved last processed IDs for {channel_username}: {last_ids}.")
 
 # Function to scrape all messages from a channel
-async def scrape_channel(client, channel_username, writer, media_dir, collect_images=False):
+async def scrape_channel(client, channel_username, writer, media_dir, collect_images=True):
     try:
         entity = await client.get_entity(channel_username)
         channel_title = entity.title
         
-        # Load the last processed message ID (if needed for further runs)
-        last_id = get_last_processed_id(channel_username)
+        # Load the last processed message IDs
+        last_ids = get_last_processed_ids(channel_username)
         
         message_count = 0
+        processed_ids = []
 
-        # Start from the latest messages and retrieve all
+        # Start retrieving messages
         async for message in client.iter_messages(entity):
-            if message.id <= last_id:
+            if message.id in last_ids:
                 continue
             
             media_path = None
@@ -61,10 +62,10 @@ async def scrape_channel(client, channel_username, writer, media_dir, collect_im
             ])
             logging.info(f"Processed message ID {message.id} from {channel_username}.")
             
-            last_id = message.id
+            processed_ids.append(message.id)
             message_count += 1
 
-        save_last_processed_id(channel_username, last_id)
+        save_last_processed_ids(channel_username, last_ids + processed_ids)
 
         if message_count == 0:
             logging.info(f"No new messages found for {channel_username}.")
@@ -72,14 +73,14 @@ async def scrape_channel(client, channel_username, writer, media_dir, collect_im
     except Exception as e:
         logging.error(f"Error while scraping {channel_username}: {e}")
 
-# Function to get last processed message ID
-def get_last_processed_id(channel_username):
+# Function to get last processed message IDs
+def get_last_processed_ids(channel_username):
     try:
-        with open(f"{channel_username}_last_id.json", 'r') as f:
-            return json.load(f).get('last_id', 0)
+        with open(f"{channel_username}_last_ids.json", 'r') as f:
+            return json.load(f).get('last_ids', [])
     except FileNotFoundError:
-        logging.warning(f"No last ID file found for {channel_username}. Starting from 0.")
-        return 0
+        logging.warning(f"No last IDs file found for {channel_username}. Starting from an empty list.")
+        return []
 
 # Initialize the client once with a session file
 client = TelegramClient('scraping_session', api_id, api_hash)
@@ -110,7 +111,7 @@ async def main():
             ]
             
             for channel in channels:
-                await scrape_channel(client, channel, writer, media_dir, collect_images=(channel == 'Chemed Telegram Channel' or channel == 'lobelia4cosmetics'))
+                await scrape_channel(client, channel, writer, media_dir, collect_images=True)
                 logging.info(f"Scraped data from {channel}.")
 
     except Exception as e:
