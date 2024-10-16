@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/favicon.ico">
+    <title>Results</title>
+</head>
+<body>
+    <h1>Items</h1>
+    <ul>
+        {% for item in items %}
+            <li>{{ item.name }}: {{ item.description }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Go back</a>
+</body>
+</html>
